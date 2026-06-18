@@ -12,13 +12,4 @@ https://ma-said-portfolio.vercel.app/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-aldrin-said-308147386/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:said.mohammadaldrin.2025@gmail.com)
 
----
 
-## GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=YzrSaid&theme=dark&hide_border=false)
----
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YzrSaid&theme=dark&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=YzrSaid&icon=0&color=0)](https://visitcount.itsvg.in)
